@@ -1,4 +1,4 @@
-# FaceRecognitionStream
+# Face Recognition Through Video Stream
 
 It will recognize face from a stream of video, like web camera etc.
 
