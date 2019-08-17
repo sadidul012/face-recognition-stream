@@ -7,4 +7,4 @@ It will recognize face from a stream of video, like web camera etc.
 2. Run train-model-lbph.py to train the model
 3. Run predict-from-model-through-webcam.py to interference 
 
-[Demo/Tutorial Video](https://goo.gl/ct7jrb)
+[Demo/Tutorial Video](http://bit.ly/309xcZW)
